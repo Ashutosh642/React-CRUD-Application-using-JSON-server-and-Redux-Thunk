@@ -1,0 +1,25 @@
+{
+  "user": [
+    {
+      "name": "Ashutosh Panigrahi",
+      "email": "ashutoshpanigrahi086@gmail.com",
+      "contact": "8018978793",
+      "address": "India",
+      "id": 1
+    },
+    {
+      "name": "Adam",
+      "email": "adam@gmail.com",
+      "contact": "6749086745",
+      "address": "London",
+      "id": 2
+    },
+    {
+      "name": "John",
+      "email": "john@gmail.com",
+      "contact": "7860265349",
+      "address": "USA",
+      "id": 3
+    }
+  ]
+}
